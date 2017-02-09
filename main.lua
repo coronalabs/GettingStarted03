@@ -46,7 +46,7 @@ local sheetOptions =
             width = 14,
             height = 40
         },
-    }
+    },
 }
 local objectSheet = graphics.newImageSheet( "gameObjects.png", sheetOptions )
 
